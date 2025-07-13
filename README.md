@@ -41,11 +41,41 @@
   </a>
 </p>
 
-<h2 align="center">Status</h2>
+<h2 align="center"></h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YoussefFayad&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="135" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YoussefFayad&radius=2&theme=redical&area=false&order=5&hide_border=true&hide_title=false" height="217" alt="activity-graph graph"  />
+  <table>
+    <tr>
+      <!-- Left: Top Languages -->
+      <td>
+        <img 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousseffayyad&langs_count=8&theme=dracula" 
+          alt="Top Langs" 
+          height="400" 
+        />
+      </td>
+      <!-- Right: GitHub Stats + Streak in column -->
+      <td>
+        <div align="center">
+          <!-- GitHub Stats -->
+          <picture>
+            <source
+              srcset="https://github-readme-stats.vercel.app/api?username=yousseffayyad&show_icons=true&theme=dracula"
+              media="(prefers-color-scheme: dark)"
+            />
+            <source
+              srcset="https://github-readme-stats.vercel.app/api?username=yousseffayyad&show_icons=true"
+              media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+            />
+            <img src="https://github-readme-stats.vercel.app/api?username=yousseffayyad&show_icons=true" height="180" alt="GitHub Stats" />
+          </picture>
+          <br/><br/>
+          <!-- GitHub Streak -->
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=yousseffayyad&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180" alt="GitHub Streak" />
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
 
