@@ -67,16 +67,26 @@
               srcset="https://github-readme-stats.vercel.app/api?username=yousseffayyad&show_icons=true"
               media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             />
-            <img src="https://github-readme-stats.vercel.app/api?username=yousseffayyad&show_icons=true" height="180" alt="GitHub Stats" />
+            <img 
+              src="https://github-readme-stats.vercel.app/api?username=yousseffayyad&show_icons=true"
+              height="200"
+              alt="GitHub Stats"
+              />
           </picture>
           <br/><br/>
-          <!-- GitHub Streak -->
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=yousseffayyad&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180" alt="GitHub Streak" />
         </div>
       </td>
     </tr>
   </table>
+   <!-- GitHub Contribution Chart -->
+  <img 
+    src="https://ghchart.rshah.org/yousseffayyad" 
+    alt="GitHub Contribution Chart" 
+    height="400" 
+    style="filter: invert(100%);" 
+  />
 </div>
+
 
 
 
