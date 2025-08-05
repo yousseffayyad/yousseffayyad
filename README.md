@@ -12,8 +12,6 @@
 
 🔭 I’m an Android Developer focusing on Jetpack Compose and Kotlin
 
-🌱 I’m currently training at ITI (Information Technology Institute).
-
 🚀 Exploring backend development with Retrofit and Room
 
 <h2 align="center">Let's Connect</h2>
