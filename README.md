@@ -76,13 +76,7 @@
       </td>
     </tr>
   </table>
-   <!-- GitHub Contribution Chart -->
-  <img 
-    src="https://ghchart.rshah.org/yousseffayyad" 
-    alt="GitHub Contribution Chart" 
-    height="400" 
-    style="filter: invert(100%);" 
-  />
+ 
 </div>
 
 
