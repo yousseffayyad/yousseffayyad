@@ -10,10 +10,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=YoussefFayad&label=Profile%20views&color=0e75b6&style=flat" alt="YoussefFayad" /> </p>
 
-🔭 I’m an Android Developer focusing on Jetpack Compose and Kotlin
+👨‍💻 About Me
 
-🚀 Exploring backend development with Retrofit and Room
-
+Android Engineer passionate about building scalable, high-performance, and maintainable mobile applications.
+- 📱 Specialized in modern Android development using Kotlin, Jetpack, and Clean Architecture
+- 🏗️ Focused on app architecture, system design, performance optimization, and scalable engineering practices
+- ⚡ Experienced in building responsive, reliable, and user-centric mobile experiences
+- 🔄 Currently exploring Kotlin Multiplatform (KMP) and cross-platform development with Flutter
+- 🚀 Continuously learning and experimenting with new mobile technologies and development tools
+  
 <h2 align="center">Let's Connect</h2>
 
 <div align="center">
@@ -39,45 +44,12 @@
   </a>
 </p>
 
-<h2 align="center"></h2>
+<h2 align="center">Status</h2>
 
 <div align="center">
-  <table>
-    <tr>
-      <!-- Left: Top Languages -->
-      <td>
-        <img 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousseffayyad&langs_count=8&theme=dracula" 
-          alt="Top Langs" 
-          height="400" 
-        />
-      </td>
-      <!-- Right: GitHub Stats + Streak in column -->
-      <td>
-        <div align="center">
-          <!-- GitHub Stats -->
-          <picture>
-            <source
-              srcset="https://github-readme-stats.vercel.app/api?username=yousseffayyad&show_icons=true&theme=dracula"
-              media="(prefers-color-scheme: dark)"
-            />
-            <source
-              srcset="https://github-readme-stats.vercel.app/api?username=yousseffayyad&show_icons=true"
-              media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-            />
-            <img 
-              src="https://github-readme-stats.vercel.app/api?username=yousseffayyad&show_icons=true"
-              height="200"
-              alt="GitHub Stats"
-              />
-          </picture>
-          <br/><br/>
-        </div>
-      </td>
-    </tr>
-  </table>
- 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yousseffayyad&radius=2&theme=redical&area=false&hide_border=true" height="220" />
 </div>
+
 
 
 
